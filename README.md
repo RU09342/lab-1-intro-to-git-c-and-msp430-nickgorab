@@ -2,7 +2,7 @@
 This lab is meant to be a gentle introduction to working with the code provided over github, adding your own code, C programming, and getting your launchpads to work. The due date for this Lab exercise is the date of submission for the Milestone project.
 
 
-##Nick Gorab
+## Nick Gorab
 
 ## Assignment Blah
 The overall goal of this exercise is to generate a "math.c" and "math.h" file that can eventually be placed into an example UART Calculator code. You will be responsible for generating the function as prototyped in the "math.h" file provided, and include the capability to add, substract, multiply, integer divide, and modulus. This hopefully will be a simple task, and you will not need to worry about getting this specific code to run on your processor.  So what you need to do to complete this is:
