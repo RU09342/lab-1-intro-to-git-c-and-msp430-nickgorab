@@ -1,11 +1,12 @@
 /*
 	Author: 		Nick Gorab
-	Last Edited:	9/8/2017 
+	Created:		9/7/2017
+	Last Edited:	9/8/2017
 */
 
 
-#include "math.h"
-#include <stdio.h>
+#include "math.h"		// References the provided header file. 
+#include <stdio.h>		// Uses standard stdio header file.
 
 int math(int num1, int num2, char Operator)
 {
